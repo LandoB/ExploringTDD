@@ -1,0 +1,5 @@
+/Users/rolandobernal/Documents/Back-End/code/ExploringTDD/ExploringTDD/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/rolandobernal/Documents/Back-End/code/ExploringTDD/ExploringTDD/bin/Debug/ExploringTDD.exe.mdb
+/Users/rolandobernal/Documents/Back-End/code/ExploringTDD/ExploringTDD/bin/Debug/ExploringTDD.exe
+/Users/rolandobernal/Documents/Back-End/code/ExploringTDD/ExploringTDD/obj/x86/Debug/ExploringTDD.exe
+/Users/rolandobernal/Documents/Back-End/code/ExploringTDD/ExploringTDD/obj/x86/Debug/ExploringTDD.exe.mdb
